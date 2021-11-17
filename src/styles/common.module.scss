@@ -1,1 +1,19 @@
-// TODO
+.container {
+  margin:4rem auto;
+  max-width: 700px;
+}
+
+.preview {
+  display: block;
+  width:100%;
+  margin: 0 auto;
+  max-width: 700px;
+  color:var(--background);
+  margin-top: 5.5rem;
+  background:var(--heading);
+  font-size: 1.125rem;
+  border-radius: 4px;
+  padding: 1rem;
+  text-align:center;
+  font-weight: 600;
+}
